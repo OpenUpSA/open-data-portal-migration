@@ -53,3 +53,11 @@ Or (requires login):
 
 * https://data.code4sa.org/api/views/${uid}/rows.csv?accessType=DOWNLOAD
 * https://data.code4sa.org/api/views/${uid}/rows.json?accessType=DOWNLOAD
+
+
+## Uploading to datahub.io
+
+The `process_inventory.py` script produces data packages that that
+should be compatible with CKAN / [datahub.io](https://datahub.io/).
+
+See discussion in https://gitter.im/datahubio/chat (circa 28 May 2019).
