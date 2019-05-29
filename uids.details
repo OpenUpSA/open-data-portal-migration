@@ -1,0 +1,322 @@
+qm8d-sypi public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=8d9f-f6rq name=Police Statistics
+8d9f-f6rq public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Police Statistics | 2005 - 2018
+gxpj-akik public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=City of Cape Town - Tender Awards July - Dec 2014
+8wvj-mtxb public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=NPO Officers
+wtwp-gvxr public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=SARS Customs Revenue
+mba4-xngh public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Database Of Medicine Prices
+r4bb-fvka public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=South Africa Civil Marriages | 2006 - 2015
+qyjq-r4ws public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=r4bb-fvka name=South Africa Civil Marriages - 2012
+iety-gmha public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=List of Registered Dams 2014
+ft5b-smjr public=true  derived=false parent=          type=dataset  category=Health     stage=published   published=          name=South African Hospitals Survey 2011-2012
+2msh-5az8 public=true  derived=false parent=          type=dataset  category=Education  stage=published   published=          name=Master List of Ordinary Schools - Q2 2013
+twd8-s9hg public=true  derived=false parent=          type=dataset  category=Education  stage=published   published=          name=2014 Matric Results by School
+di7x-4ek4 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Causes Of Death - 2012
+bmuw-ib36 public=true  derived=true  parent=8wvj-mtxb type=filter   category=Business   stage=published   published=          name=Roll-up NGOs
+4xvn-idm7 public=true  derived=false parent=          type=dataset  category=Transport  stage=published   published=          name=Commute times for drivers - 2013
+rrej-usi9 public=true  derived=false parent=          type=dataset  category=Transport  stage=snapshotted published=4xvn-idm7 name=Commute times for drivers - 2013
+r6kb-f76c public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=Police Station Coordinates
+7y3u-atvk public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Protest Data
+hr5e-pz98 public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=Police Station Boundaries
+f47a-ghee public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Divorces in South Africa 2012
+26vs-4ane public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Ward Councillors - City of Cape Town - 2015
+dksp-4a77 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=South African Customary Marriages - 2012
+i7j9-h2db public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Protest Data with Census Data
+7hw8-jw27 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Fine Revenue by Municipality - 2014
+h7eu-9tbf public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Fines Revenue for Municipalities
+b58z-m2g5 public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=yau8-edi6 name=Remuneration of Public Office Bearers
+5f4a-x5ht public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Represented Political Party Fund Allocations 2001-2015
+y4tg-s9ix public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=yau8-edi6 name=Remuneration of Public Office Bearers
+yau8-edi6 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Remuneration of Public Office Bearers
+5nqs-icqj public=true  derived=false parent=          type=dataset  category=Transport  stage=published   published=          name=Database Commuting Time
+fk5k-g6m2 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Capital Projects for Wards in the City of Cape Town
+bqf7-7jj6 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Domestic worker wages
+9t9b-sjyb public=true  derived=false parent=          type=dataset  category=Transport  stage=published   published=          name=Dataset Time To Study Place
+ibrw-jdxr public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=MP - Attendance (July- Dec 2014)
+mjei-r6sw public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=Golden Arrow Bus Routes
+imbr-suwj public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=Capital Projects for Wards in the City of Cape Town
+v9d4-guqe public=true  derived=false parent=          type=gis map  category=Transport  stage=published   published=          name=Golden Arrow Bus Stops
+9g44-6jr2 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Age in Completed Years (Census 2011)
+euc9-cu8y public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Resources for South African Women
+bq3u-j8iy public=true  derived=true  parent=          type=chart    category=           stage=published   published=          name=Equitable
+7ywz-2g22 public=true  derived=true  parent=          type=chart    category=           stage=published   published=          name=Proportional
+mdqc-iqkc public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Home Page Stories
+ptrt-k3fc public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=mdqc-iqkc name=Home Page Stories
+6vr5-6gyf public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=mdqc-iqkc name=Home Page Stories
+aani-rbgw public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=mdqc-iqkc name=Home Page Stories
+6tnz-ijec public=true  derived=false parent=          type=dataset  category=Health     stage=published   published=          name=Disabilities And Demographics Khayelitsha Census 2011
+75ac-9rqc public=true  derived=false parent=          type=dataset  category=Health     stage=published   published=          name=Disabilities And Demographics Umlazi Census 2011
+7anp-uwy6 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Events Message
+m4s9-7ew5 public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=mb7a-e9bd name=Messages
+3tbi-mr5r public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=mb7a-e9bd name=Messages
+mb7a-e9bd public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Messages
+kd9w-8wms public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=mb7a-e9bd name=Messages
+ddsg-aw87 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Events
+acki-dkei public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Developers Test API
+abad-taj3 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Toilets in Cape Town's informal settlements
+kvaa-bitv public=true  derived=false parent=          type=dataset  category=Health     stage=published   published=          name=Disabilities And Demographics Atteridgeville Census 2011
+apmb-sb7p public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dam Levels Individual Nov2014-Mar2015
+yqb8-aumt public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dam Levels Individual Nov2015-Mar2016
+ntjh-9zfc public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dam Levels WMA Summary Nov2014-Mar2015
+x42e-fbxa public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=acki-dkei name=Developers Test API
+dta8-6iyv public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dam Levels WMA Summary No2015-Mar2016
+4wty-227g public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dam Levels Provincial Summary Nov2014-Mar2015
+tej8-9bww public=false derived=false parent=          type=dataset  category=Government stage=published   published=          name=Cape Town Ward Budgets - 2014/2015
+ckn2-xub5 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Developers Featured Content
+bnjs-yrnu public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dam Levels WMA Summary Nov2014-Mar2015
+wxab-7qd9 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dam Levels Provincial Summary Nov2015-Mar2016
+gzvu-8hu2 public=true  derived=false parent=          type=gis map  category=           stage=published   published=          name=Toilets Inf Sttls Ctn
+6yzt-6r5u public=true  derived=true  parent=euc9-cu8y type=datalens category=           stage=published   published=          name=Resources for South African Women
+p93k-mhrh public=true  derived=true  parent=          type=datalens category=           stage=published   published=          name=Represented Political Party Fund Allocations 2001-2015
+3wnb-x2rd public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Informal Settlements Upgrade Constraints
+rhg6-5rkn public=true  derived=true  parent=7y3u-atvk type=filter   category=           stage=published   published=          name=Protest Data
+5brq-3adk public=false derived=false parent=          type=dataset  category=           stage=published   published=          name=2014 - Q4 - Cleaned
+bky6-3za5 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Informal Settlement Matrix
+84qs-wrmb public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=h7eu-9tbf name=Fines Revenue for Municipalities
+ihda-amxt public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=mba4-xngh name=Database Of Medicine Prices
+p5ab-xkjz public=true  derived=false parent=          type=dataset  category=Health     stage=snapshotted published=ft5b-smjr name=South African Hospitals Survey 2011-2012
+gdfr-j4ry public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=          name=Political Party Seats 2000-2014
+7fi6-8vfm public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=ddsg-aw87 name=Events
+anr6-jas9 public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=tej8-9bww name=Cape Town Ward Budgets - 2014/2015
+226d-4kns public=false derived=false parent=          type=gis map  category=           stage=published   published=          name=Nu - Ward Allocation
+j7h5-6mbn public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=acki-dkei name=Developers Test API
+qybw-xae5 public=false derived=false parent=          type=dataset  category=           stage=published   published=          name=Cape Town Ward Budgets
+nqmg-bkec public=true  derived=true  parent=mba4-xngh type=filter   category=Government stage=published   published=          name=ebisu
+ea6g-g452 public=false derived=false parent=          type=dataset  category=           stage=published   published=          name=Crimestats 2014 2015.xlsx - Data (1)
+sc2e-vbej public=true  derived=true  parent=8d9f-f6rq type=filter   category=Government stage=published   published=          name=Burglaries 09-14
+8h4s-qhzx public=false derived=false parent=          type=dataset  category=Government stage=snapshotted published=dksp-4a77 name=South African Customary Marriages - 2012
+8h8u-mn6v public=true  derived=false parent=          type=dataset  category=Education  stage=snapshotted published=twd8-s9hg name=2014 Matric Results by School
+ezmj-uude public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=5f4a-x5ht name=Represented Political Party Fund Allocations 2001-2015
+rhbk-z575 public=true  derived=true  parent=26vs-4ane type=filter   category=Government stage=published   published=          name=councillors
+mvgz-5mig public=true  derived=true  parent=8d9f-f6rq type=filter   category=Government stage=published   published=          name=CrimeStatsVisual
+hryn-xfij public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=NPOs National
+fnaq-h9zm public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=7anp-uwy6 name=Events Message
+bxex-hyxz public=true  derived=true  parent=mba4-xngh type=filter   category=Government stage=published   published=          name=Meds_test
+8htp-37vh public=false derived=false parent=          type=dataset  category=           stage=unpublished published=bqf7-7jj6 name=Domestic worker wages
+4ggp-4f65 public=false derived=false parent=          type=dataset  category=Government stage=snapshotted published=dksp-4a77 name=South African Customary Marriages - 2012
+5qvh-pm86 public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=7anp-uwy6 name=Events Message
+2pnv-7mty public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Countries
+4nfa-dxik public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=ddsg-aw87 name=Events
+vxvq-v6ga public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=Eskom Conv Dam
+ssui-trcj public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=Droby1
+ah5u-caay public=true  derived=true  parent=8wvj-mtxb type=filter   category=Business   stage=published   published=          name=NPOs by Category
+v7d2-hiuu public=false derived=false parent=          type=dataset  category=Business   stage=snapshotted published=8wvj-mtxb name=NPO Officers
+d7ah-ikqc public=true  derived=true  parent=8d9f-f6rq type=chart    category=Government stage=published   published=          name=Bar Graph burglaries
+tfxg-8hz9 public=true  derived=true  parent=8d9f-f6rq type=chart    category=Government stage=published   published=          name=Non-Residential Burglaries 05-14
+scvt-w67u public=true  derived=true  parent=8d9f-f6rq type=chart    category=Government stage=published   published=          name=Robbery at Non-Residential
+kwxw-meef public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Census 2011 - Relationship to Head of Household - Small Areas (SAL)
+tntg-besy public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Auditor General's reports for South African Municipalities
+7biy-vyad public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Census 2011 - Age Groups - Small Areas (SAL)
+3jhi-ewix public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Trusts
+2u5d-29ty public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=Local Government Boundaries (2016)
+n7gy-as2q public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=UK Land Registry
+4cwn-vtsj public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Census 2011 - Population Group - Small Areas (SAL)
+6cpk-u23h public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Census 2011 -  Marital Status - Small Areas (SAL)
+bnka-3ce8 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Dams and lakes of South Africa
+m879-2nzf public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Income and expenditure for metropolitan municipalities in 2016/17 financial year
+bqer-ufjw public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Household payment for medication from Living Conditions Survey
+xnzj-kvdu public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Causes Of Death2013 F1
+dz98-u3rq public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Rivers of South Africa by drainage region
+g69c-5jbx public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Census 2011 - Enumeration Area Type - Small Areas (SAL)
+5mfa-483b public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=CSG Townships Northern Cape
+nuea-zwfy public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=2016 District Boundaries
+jzze-y7nw public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Census 2011 - Gender - Small Areas (SAL)
+wh6v-39n2 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Census 2011 - Father Alive - Small Areas (SAL)
+t59b-p9up public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Census 2011 - Mother Alive - Small Areas (SAL)
+fwjb-eh28 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Income and expenditure for selected selected cities in 2014/15 financial year
+p2qi-ggqt public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Census 2011 - Geo Type - Small Areas (SAL)
+sgr2-rapk public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=iwu7-xrdf name=Claims Court Judgement 1996-2018
+b6qz-xu2w public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Census 2011 - Age Groups - Small Areas (SAL)
+k7ms-pcwh public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Open Street Map Lines
+vd3t-inn9 public=false derived=false parent=          type=dataset  category=           stage=published   published=          name=Unparsed locations
+ahe3-c3ze public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=Census 2011 - Boundaries - Small Area Layer
+j8c6-ygk5 public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=rvqa-n6ju name=Database of Restricted Suppliers
+wg75-nf3q public=true  derived=false parent=          type=dataset  category=Education  stage=published   published=          name=2016 Matric Schools Report
+wibf-efgu public=true  derived=true  parent=          type=gis map  category=Government stage=published   published=          name=SAPS Gauteng
+ag69-p6eg public=false derived=false parent=          type=gis map  category=           stage=published   published=          name=Water Resources - Catchments South Africa 2012
+qapr-gczi public=true  derived=false parent=          type=gis map  category=Government stage=published   published=          name=Census 2011 - Boundaries - Subplace layer
+hpnv-mvqw public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Dams and Lakes 2012
+phhf-nbyf public=true  derived=true  parent=2msh-5az8 type=filter   category=Education  stage=published   published=          name=Untitled Visualization - Based on Master List of Ordinary Schools - Q2 2013
+kvdp-n329 public=true  derived=false parent=          type=gis map  category=           stage=published   published=          name=Renewable Energy Data - Quarter 2, 2018
+7vdq-k5h2 public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=h9jw-cga9 name=Air Quality Management Plans (AQMP) status 2009-2015
+bv2t-yvyi public=false derived=false parent=          type=file     category=           stage=published   published=          name=Land Audit Phase 2 2015
+g5mu-unaq public=true  derived=true  parent=          type=chart    category=Government stage=published   published=          name=Population estimates for police station districs
+9ixd-9q3i public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Phase 2 Private Land Audit Report Tables
+i6j8-v3vb public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=Untitled Visualization - Based on List of Registered Dams 2014
+s2pn-cptz public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Renewable energy location and contracted capacities
+3hy6-vqzz public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Commission On Restitution Of Land Right Annual Report 2014-2015 Tables
+xgwa-u6bf public=true  derived=true  parent=          type=gis map  category=Government stage=published   published=          name=Johannesburg police stations
+cwqb-agtg public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Cadastral Land Parcel Codes
+ivkg-xbxk public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Comprehensive Agricultural Support Programme 2013 Evaluation Tables
+c78h-7ssc public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Commission On Restitution Of Land Rights Annual Report 2013-2014 Tables
+emcm-3g3f public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Commission On Restitution Of Land Rights Annual Report 2016-2017 Tables
+i5si-wub3 public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - RSA MAE-APAN 2012
+m8d8-7mm7 public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources Evaporation  Stations WR90 2012
+m6jj-zzcp public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Commission On Restitution Of Land Rights Annual Report 2012-2013 Tables
+dfwc-hau8 public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=South African Imports
+tgvs-4ikc public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Middleburg Air Quality Monitoring Station Data - 010117 to 311217
+qrbu-sef6 public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Evapo Zones WR90 2012
+uk59-p37p public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Quatdrainage 2012
+xpu4-r5p7 public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Terdrainage 2012
+jiah-cq9n public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Primary Catchments 2012
+6me7-m837 public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Secondary Catchments 2012
+8cdf-q4j4 public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Endorheic basin 2012
+paw7-m6tx public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=mba4-xngh name=Database Of Medicine Prices
+de8a-tziv public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Crime
+n7f5-5672 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Commission On Restitution Of Land Rights Annual Report 2015-2016 Tables
+kvv2-xrvr public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Tender Awards 2015-2016
+sbz4-sdab public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Witbank Air Quality Monitoring Station Data - 010117 to 311217
+546q-pe3f public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Chief Surveyor Cadastral Spatial Data - Public Places
+ettm-3r36 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Medicine dispensing license holders (pharmacies)
+sz3f-vgi7 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=SA National Lottery Commission's Beneficiaries
+qcb9-8s33 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Secunda Air Quality Monitoring Station Data - 010117 to 311217
+c2dq-tkgw public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Western Cape Water Restrictions
+cb7i-9jpn public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=urqe-8nec name=Closed and pending schools up to March 2017
+xrci-yc4x public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Precinct to small area weights
+5npz-8894 public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=vxz2-4rs2 name=Police Precinct population estimates
+8a33-ywjf public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Crime
+urqe-8nec public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Closed and pending schools
+8ada-8eau public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Evaporation WR90 2012
+6acp-utyn public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Incexp 2016q3 Acrmun
+enzh-vp2y public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Land use in Northern Cape Province
+bz7q-jmvg public=false derived=false parent=          type=dataset  category=           stage=snapshotted published=iank-udt7 name=Asset Inventory
+5mk8-wndg public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=Fuel Imports
+iank-udt7 public=false derived=false parent=          type=dataset  category=           stage=published   published=          name=Asset Inventory
+98zc-rh77 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Municipal Election Results 2016 (ward level)
+diy5-bcw6 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Land cover in Northern Cape Province
+3gcc-3f3r public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Civil Marriages2013 F1
+kwrq-g7r7 public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=Untitled Visualization - Based on Western Cape Water Restrictions
+7mkr-9t5j public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Electoral Candidates 2016
+wx2e-wqae public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=South Africa Social Security Agency (SASSA) service office locations
+ewnn-86nc public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Deforest nlc96
+pr2s-bnjz public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Dryland nlc96
+ks5j-63iu public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Electricity Transmission Lines
+biue-xggt public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Water Resources - Irrigation nlc96
+by8v-xpt2 public=false derived=false parent=          type=gis map  category=           stage=published   published=          name=Station Boundaries
+ipsa-gwfq public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Registered private higher education institutions
+jk52-h3sr public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Provisionally registered private higher education institutions
+ff5k-jhtq public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=a2x8-e4a5 name=Illegal and bogus private higher education institutions
+bcfa-x25d public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=UN MIGRANT STOCK UPDATE 2017
+48sx-zra3 public=false derived=false parent=          type=dataset  category=           stage=unpublished published=iank-udt7 name=Asset Inventory
+daft-ukdb public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=South African imports from Lesotho
+qbfs-b6qc public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2011
+w8z9-v2ge public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Post Offices - SAPO
+ff4x-nuwb public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=7mkr-9t5j name=Electoral Candidates 2016
+gwp6-qdct public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Chief Surveyor Cadastral Spatial Data - Agricultural Holdings
+pffe-g5rx public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Chief Surveyor Cadastral Spatial Data - Townships
+662p-urfm public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Post Offices - RPA
+a2x8-e4a5 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Illegal and bogus private higher education institutions
+6a2a-kztq public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Licences to manufacture, import, export, wholesale or distribute medicines
+8kn8-f25n public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Permanent Judges
+aurg-34mw public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Small area to police precinct weights
+spw7-34r3 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Master procurement catalogue for medicine used in public health facilities
+vht3-htmv public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Transportation in Northern Cape Province from OSM
+5pus-w5ga public=false derived=false parent=          type=gis map  category=Government stage=published   published=          name=Golden Arrow Bus Stops
+bd9x-kagv public=false derived=false parent=          type=gis map  category=           stage=published   published=          name=Landcover Polygon
+tqgd-dyr7 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Councillor attendance 2014-2015
+3gpr-t5gg public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Municipal Election Results 2016 (voting district level)
+mdsf-jya4 public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=98zc-rh77 name=Municipal Elections Results 2016 (ward level)
+q8xa-wadh public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=LGE 2016 - Candidate List - 15 July 2016
+qs5c-7kfz public=true  derived=false parent=          type=dataset  category=           stage=snapshotted published=kqkd-fa8f name=Fires incidences in Cape Town
+h6h9-2emk public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=New medicine registrations
+9jrk-izbx public=true  derived=false parent=          type=gis map  category=Personal   stage=published   published=          name=Informal Settlements Matrix Shapefile
+cdaa-qt6f public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Air Quality Monitoring Stations Operational Status 2009-2015
+nb69-98bb public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Councillor Assitance Report during subcouncil meetings
+gfnj-arm4 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Artificial landforms in Northern Cape Province
+ercj-e6nk public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Cancelled registrations of private higher education institutions
+t4sj-uv2s public=true  derived=false parent=          type=gis map  category=           stage=published   published=          name=Census 2011 household demographics at Small Area level
+kqkd-fa8f public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Fires incidents in Cape Town
+tbhf-yaxm public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=HIV/Aids related deaths
+eay6-uaqx public=true  derived=false parent=          type=gis map  category=           stage=published   published=          name=Census 2011 population demographics at Small Area level
+n6i8-b8c5 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Western Cape Dam Levels
+n3mn-suta public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=sars
+28q3-a3ph public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Public TVET College Office Contact Details
+bqxx-mh8m public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Hydrological (water) points in the Northern Cape
+vd65-ed77 public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=colleys
+vxd8-hsey public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Natural landforms in the Northern Cape Province
+gx29-4gza public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2012
+cmgf-c6kp public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=States
+nzyq-6tnd public=true  derived=true  parent=          type=gis map  category=Government stage=published   published=          name=Johannesburg police station boundaries
+vxz2-4rs2 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Police District population estimates
+3cqh-9hgj public=true  derived=true  parent=mba4-xngh type=filter   category=Government stage=published   published=          name=south african prices
+fcai-cjit public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Magistrates by race and gender
+d4a3-pgxg public=true  derived=true  parent=          type=gis map  category=Government stage=published   published=          name=LYTTELTON
+p9ee-nvwt public=true  derived=true  parent=          type=gis map  category=Government stage=published   published=          name=LYTTELTON
+wbds-ni2d public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=          name=Energy Per Person Energy Or Fuel Services
+tf8w-fe2f public=true  derived=true  parent=          type=gis map  category=Government stage=published   published=          name=LYTTELTON
+acam-b3u5 public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2010
+7ip5-ux3n public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=colleys
+ruuz-xd9d public=true  derived=true  parent=          type=chart    category=Government stage=published   published=          name=Population estimates for police station districts
+ejys-ep3e public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=wanna
+sizu-qwte public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=c2dq-tkgw name=Western Cape Water Restrictions
+uzpy-5z9h public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2009
+6ize-i5rj public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2009
+wchc-h45z public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2011
+m7jc-fj38 public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2008
+dxew-ik56 public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2008
+8jnh-c97g public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2012
+vk7e-5ujf public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2012
+7v9t-bwa6 public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=          name=Energy Per Household Energy Or Fuel Services
+ggdk-6iwv public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=2008-2016
+7y8w-rcgv public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Pending and closed ordinary schools up to March 2017
+knnn-g5sp public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Operational ordinary schools
+ybxv-paxu public=true  derived=false parent=          type=dataset  category=Education  stage=snapshotted published=wg75-nf3q name=2016 Matric Schools Report
+rvqa-n6ju public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Database of Restricted Suppliers
+u6bk-83i3 public=true  derived=true  parent=          type=filter   category=Government stage=published   published=          name=Pie
+33it-83ry public=false derived=false parent=          type=dataset  category=           stage=unpublished published=          name=Properties owned by the City of Cape Town
+2b78-jan9 public=false derived=false parent=          type=dataset  category=           stage=snapshotted published=s2gz-zxmc name=Deceased Estates
+s2gz-zxmc public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Deceased Estates
+p4kq-z4k7 public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Children Mortality
+mzqr-qwji public=true  derived=true  parent=mba4-xngh type=filter   category=Government stage=published   published=          name=ebisu
+gc9a-asta public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Northern Cape State Land Audit
+m842-y7rc public=false derived=false parent=          type=dataset  category=           stage=unpublished published=abad-taj3 name=Toilets In Inf Settlements CTn For Portal
+c3qz-9xue public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=di7x-4ek4 name=Causes Of Death - 2012
+bnda-rrt3 public=false derived=false parent=          type=gis map  category=           stage=published   published=          name=Annual Household Income Census 2011 Northern Cape
+v96j-npmg public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Police deaths
+v7mq-78bq public=true  derived=false parent=          type=file     category=Government stage=published   published=          name=Air Quality Monitoring Station Locations and Pollutants
+yu8p-dhat public=true  derived=false parent=          type=dataset  category=Education  stage=published   published=          name=LLB Graduates By University
+cnvm-8fya public=false derived=false parent=          type=dataset  category=           stage=snapshotted published=iank-udt7 name=Asset Inventory
+enar-6xi8 public=false derived=false parent=          type=dataset  category=           stage=snapshotted published=iank-udt7 name=Asset Inventory
+yrhu-vpfh public=true  derived=false parent=          type=gis map  category=           stage=published   published=          name=CSG Public Places Northern Cape
+hqws-nw3f public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=dfxd-ggqk name=Provincial Rape Statistics
+3qvc-5tk6 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Provincial roads of KwaZulu-Natal Province
+3e6r-sfqg public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Causes of Death
+7x7f-9xbf public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=SA Lottery Beneficieries 2002_2016
+ankz-bume public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Atmospheric Emissions Licenses (AEL) - Mpumalanga - Management and Mitigation Actions
+xnry-b2id public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=National Special Needs Education Centre | June 2017
+puyv-csaw public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Honey Imports into South Africa - 2010 - 2017
+qccd-zgyb public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Chocolate Imports into South Africa - 2010 - 2017
+k9vj-4pvi public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=r4bb-fvka name=South Africa Civil Marriages - 2008 - 2015
+ksem-bfcs public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=South African condom imports
+dfxd-ggqk public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Provincial Rape Statistics
+u7eh-5sbv public=false derived=false parent=          type=dataset  category=Government stage=unpublished published=          name=Special Needs Education Centre | June 2017
+an57-p7rq public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Airports and aerodromes in South Africa
+gfun-mesv public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Atmospheric Emissions Licenses (AEL) - Mpumalanga - Maximum Emissions Start, Maintenance, Shutdown
+6t62-efbe public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Atmospheric Emissions Licenses (AEL) - Mpumalanga - Issue, Effective, Expiry Dates
+swdm-fesv public=true  derived=false parent=          type=dataset  category=Government stage=snapshotted published=h9jw-cga9 name=Air Quality Management Plans (AQMP) status 2009-2015
+h9jw-cga9 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Air Quality Management Plans (AQMP) status 2009-2015
+iwu7-xrdf public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Land Claims Court Judgements 1996-2018
+qxe6-ns3i public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Atmospheric Emissions Licenses (AEL) - Mpumalanga - Maximum Emissions Normal Working Conditions
+bgx6-7sng public=true  derived=false parent=          type=dataset  category=           stage=published   published=          name=Atmospheric Emissions Licenses (AEL) - Mpumalanga - Monitoring and Reporting Requirements
+jm9x-hu7d public=true  derived=false parent=          type=file     category=Government stage=published   published=          name=Transport infrastructure in the Northern Cape Province
+vbib-9fvr public=false derived=false parent=          type=dataset  category=Education  stage=unpublished published=          name=LLB Graduates by Race
+jfj8-wqz9 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Police district household incomes
+7t94-x3qi public=true  derived=true  parent=          type=filter   category=           stage=published   published=          name=Deceased Estate data
+drfg-yqbm public=true  derived=true  parent=8d9f-f6rq type=filter   category=Government stage=published   published=          name=filtered-crime-stats
+6rgz-ak57 public=true  derived=true  parent=8d9f-f6rq type=filter   category=Government stage=published   published=          name=filtered-crime-stats
+jjzf-buwp public=true  derived=true  parent=8d9f-f6rq type=filter   category=Government stage=published   published=          name=filtered-crime-stats
+guaa-9mqg public=true  derived=true  parent=8d9f-f6rq type=filter   category=Government stage=published   published=          name=filtered-crime-stats
+jtd9-spjy public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Civil Unions 2007-2015
+fbar-6648 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Database of Medicine Prices 05 May 2018
+3ftv-sqir public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=Frequency of names in South Africa
+6ik7-82ip public=true  derived=false parent=          type=dataset  category=Business   stage=snapshotted published=3ftv-sqir name=Frequency of names in South Africa
+qv3n-u8pp public=true  derived=false parent=          type=dataset  category=Business   stage=published   published=          name=Frequency of surnames in South Africa
+niyr-rch9 public=false derived=false parent=          type=dataset  category=Business   stage=unpublished published=3ftv-sqir name=Frequency of names in South Africa
+mwzd-ptz7 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Police district population
+pxrg-6bgn public=true  derived=true  parent=8d9f-f6rq type=map      category=Government stage=published   published=          name=Test police
+ra4e-xsc2 public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Causes Of Death 2015 - Limpopo
+r9mb-ipfe public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Cadastral Data - Vryburg Erven
+22t8-gvzh public=true  derived=false parent=          type=dataset  category=Government stage=published   published=          name=Cadastral Data - Rustenburg Mineral Rights
+5erp-fahs public=false derived=false parent=          type=dataset  category=           stage=published   published=          name=CIPC Companies and Directors
+prub-jj3b public=true  derived=true  parent=          type=map view category=           stage=published   published=          name=Fires in Cape Town
+t9if-c8ds public=true  derived=true  parent=          type=gis map  category=Government stage=published   published=          name=JHB Police
+vgd2-6v7x public=false derived=true  parent=5erp-fahs type=filter   category=           stage=published   published=          name=viewer user's view

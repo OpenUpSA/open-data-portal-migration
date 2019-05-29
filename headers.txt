@@ -1,0 +1,29 @@
+URL
+U ID
+Public
+Derived View
+Parent UID
+Domain
+Type
+Name
+Description
+Visits
+Creation Date
+Last Update Date (data)
+Category
+Keywords
+Downloads
+Owner
+Contact Email
+License
+Publication Stage
+Published Version Name
+Published Version UID
+data_provided_by
+Publishing Department
+routing_approval
+api_endpoint
+source_link
+owner_uid
+View Moderation Status
+provenance

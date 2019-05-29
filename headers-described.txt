@@ -1,0 +1,31 @@
+Column Name                Type                           Description
+
+URL                        URL                            Website
+U ID                       Plain Text
+Public                     Plain Text                     Public or Private
+Derived View               Plain Text                     if the row represents a view/map/data_lens page etc. that is derived from another dataset = True
+Parent UID                 Plain Text                     if the row represents a view/map/data_lens page etc. the underlying parent dataset UID populates
+Domain                     Plain Text                     if data is federated, the source domain will populate here
+Type                       Plain Text
+Name                       Plain Text
+Description                Plain Text
+Visits                     Number
+Creation Date              Date & Time (with timezone)
+Last Update Date (data)    Date & Time (with timezone)    Last update of tabular data only, will not reflect metadata or shapefiles
+Category                   Plain Text
+Keywords                   Plain Text
+Downloads                  Number
+Owner                      Plain Text                     Dataset Owner Name
+Contact Email              Plain Text                     contact email for the dataset listed in private metadata
+License                    Plain Text
+Publication Stage          Plain Text                     Has four possible values: * Unpublished: Does not show up in catalog. Waiting to be published. * Published: The authoritative and broadly available current copy of a dataset * Snapshotted: An older copy of the dataset which has been saved for reference * Copying: A dataset which is in the process of being copied internally. This is an ephemeral state.
+Published Version Name     Plain Text                     The name of the currently published version of this dataset
+Published Version UID      Plain Text                     The uid of the currently published version of this dataset
+data_provided_by           Plain Text
+Publishing Department      Plain Text
+routing_approval           Plain Text
+api_endpoint               Plain Text
+source_link                Plain Text
+owner_uid                  Plain Text
+View Moderation Status     Plain Text
+provenance                 Plain Text
