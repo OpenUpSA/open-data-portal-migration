@@ -4,10 +4,11 @@ Process the data.code4sa.org Socrata asset inventory in various ways.
 """
 import csv
 import datetime as dt
-from typing import Tuple, List, Optional
+import re
+from textwrap import dedent
+from typing import Dict, List, Optional, Tuple
 
 from datapackage import Package
-
 
 # Expected Asset Inventory field names:
 expected_fieldnames = [
@@ -85,6 +86,17 @@ def print_details(row: dict) -> None:
     )
 
 
+def derive_name(row: dict) -> str:
+    """
+    Data package compatible names: alphanumeric only, and slugified with "-" as separator.
+    """
+    name: str = row["Name"]
+    name = name.lower()
+    name = re.sub(r"[^a-z0-9]", " ", name)
+    name = "-".join(name.split())
+    return name
+
+
 def data_package_from_dataset(row: dict) -> Tuple[str, Package]:
     """
     Make a data package definition from a dataset row.
@@ -96,6 +108,9 @@ def data_package_from_dataset(row: dict) -> Tuple[str, Package]:
     package = Package()
     csv_path = f"raw-csv/{uid}.csv"
     package.infer(csv_path)
+
+    # Set a more readable name
+    package.descriptor["name"] = derive_name(row)
 
     # Update standard descriptor fields from the row metadata.
     package.descriptor["title"] = row["Name"]
@@ -153,13 +168,17 @@ def data_package_from_dataset(row: dict) -> Tuple[str, Package]:
     return (uid, package)
 
 
-def save_data_package(uid: str, package: Package) -> None:
+def save_data_package(package: Package) -> None:
+    name: str = package.descriptor["name"]
     # Save both the whole zip, and the JSON for comparison
-    package.save(f"data-packages-json/{uid}.json")
-    package.save(f"data-packages-zip/{uid}.zip")
+    package.save(f"data-packages-json/{name}.json")
+    package.save(f"data-packages-zip/{name}.zip")
 
 
 def main() -> None:
+    # Remember seen package names and UIDs.
+    seen_names_uids: Dict[str, str] = {}
+
     with open("Asset_Inventory-2019-05-21.csv") as f:
         reader = csv.DictReader(f)
         assert reader.fieldnames == expected_fieldnames, reader.fieldnames
@@ -167,8 +186,28 @@ def main() -> None:
             if is_published(row) and is_dataset(row):
                 print_details(row)
                 (uid, package) = data_package_from_dataset(row)
-                save_data_package(uid, package)
-                # assert False, package
+
+                # Consistency: Ensure name uniqueness
+                if package.descriptor["name"] in seen_names_uids:
+                    # XXX: Just one layer of unique renaming, for now.
+                    # (This only affects two pairs of the May 2019 data sets.)
+                    package.descriptor["name"] += "-2"
+                    package.commit()
+
+                # Consistency: Check name uniqueness
+                name: str = package.descriptor["name"]
+                if name in seen_names_uids:
+                    raise RuntimeError(
+                        dedent(
+                            f"""\
+                            Name {name!r} (UID {uid}) already seen as UID {seen_names_uids[name]}!
+                            Row: {row!r}
+                            """
+                        )
+                    )
+                seen_names_uids[name] = uid
+
+                save_data_package(package)
 
 
 if __name__ == "__main__":
