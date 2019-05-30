@@ -61,3 +61,11 @@ The `process_inventory.py` script produces data packages that that
 should be compatible with CKAN / [datahub.io](https://datahub.io/).
 
 See discussion in https://gitter.im/datahubio/chat (circa 28 May 2019).
+
+Issues encountered so far:
+
+* [datahub-qa #248]: Return more descriptive error message when 'name' is missing
+* [datahub-qa #249]: Processing data package fails with descriptor validation errors
+
+[datahub-qa #248]: https://github.com/datopian/datahub-qa/issues/248
+[datahub-qa #249]: https://github.com/datopian/datahub-qa/issues/249
